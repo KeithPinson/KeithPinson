@@ -1,5 +1,8 @@
+<a href="https://github-readme-stats.vercel.app/api?username=keithpinson">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=keithpinson" />
+</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson" />
 </a>
 
 <!--
