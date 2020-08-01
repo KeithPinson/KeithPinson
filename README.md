@@ -1,8 +1,8 @@
-<a href="https://github-readme-stats.vercel.app/api?username=keithpinson">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=keithpinson" />
+<a href="https://github.com/KeithPinson">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeithPinson&show_icons=true)" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson" />
+<a href="https://github.com/KeithPinson">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithPinson" />
 </a>
 
 <!--
