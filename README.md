@@ -1,4 +1,4 @@
-<a href="https://github.com/keithpinson/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithpinson" />
 </a>
 
